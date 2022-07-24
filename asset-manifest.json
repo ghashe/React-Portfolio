@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.23c7782e.css",
-    "main.js": "/react-portfolio/static/js/main.306e5254.js",
-    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
-    "static/media/background.png": "/react-portfolio/static/media/background.37aa9c583eb392268c39.png",
-    "static/media/project-2.png": "/react-portfolio/static/media/project-2.449ee0310184a29938a5.png",
-    "static/media/project-1.png": "/react-portfolio/static/media/project-1.1cbb86cb91a9a69bada5.png",
-    "static/media/project-6.png": "/react-portfolio/static/media/project-6.308d3fcc454648d02804.png",
-    "static/media/project-3.png": "/react-portfolio/static/media/project-3.5995ca5087cf98fa2724.png",
-    "service-worker.js": "/react-portfolio/service-worker.js",
-    "static/media/project-5.png": "/react-portfolio/static/media/project-5.dd46747afdf2aedc334d.png",
-    "static/media/project-4.png": "/react-portfolio/static/media/project-4.c19aad3abc2db621ae0a.png",
-    "index.html": "/react-portfolio/index.html",
-    "main.23c7782e.css.map": "/react-portfolio/static/css/main.23c7782e.css.map",
-    "main.306e5254.js.map": "/react-portfolio/static/js/main.306e5254.js.map",
-    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "/home/static/css/main.03548169.css",
+    "main.js": "/home/static/js/main.2cb1a284.js",
+    "static/js/787.a2cb61a6.chunk.js": "/home/static/js/787.a2cb61a6.chunk.js",
+    "static/media/background.png": "/home/static/media/background.37aa9c583eb392268c39.png",
+    "static/media/project-2.png": "/home/static/media/project-2.449ee0310184a29938a5.png",
+    "static/media/project-1.png": "/home/static/media/project-1.1cbb86cb91a9a69bada5.png",
+    "static/media/project-6.png": "/home/static/media/project-6.308d3fcc454648d02804.png",
+    "static/media/project-3.png": "/home/static/media/project-3.5995ca5087cf98fa2724.png",
+    "service-worker.js": "/home/service-worker.js",
+    "static/media/project-5.png": "/home/static/media/project-5.dd46747afdf2aedc334d.png",
+    "static/media/project-4.png": "/home/static/media/project-4.c19aad3abc2db621ae0a.png",
+    "index.html": "/home/index.html",
+    "main.03548169.css.map": "/home/static/css/main.03548169.css.map",
+    "main.2cb1a284.js.map": "/home/static/js/main.2cb1a284.js.map",
+    "787.a2cb61a6.chunk.js.map": "/home/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.23c7782e.css",
-    "static/js/main.306e5254.js"
+    "static/css/main.03548169.css",
+    "static/js/main.2cb1a284.js"
   ]
 }
