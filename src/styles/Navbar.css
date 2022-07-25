@@ -14,15 +14,6 @@
   color: white;
 }
 
-.links a {
-  transition: 0.5s;
-}
-
-.links a:hover {
-  color: #33ff00;
-  transform: scale(1.1);
-  transition: 0.5s;
-}
 .navbar a {
   color: white;
   text-decoration: none;
